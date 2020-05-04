@@ -1,0 +1,27 @@
+body{
+    font: 20px arial, sans-serif;
+}
+
+.navbar{
+    background-color: #2EFE2E;
+}
+.quemsomos{
+    background-color: rgb(0, 238, 255);
+}
+
+.margin{
+    /* padding top serve para criar uma margem mas dentro da criação,
+    as cores vão ser as mesmas do backgroud, tipo de escrita etc. */
+    padding-top:  10px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: rgb(174, 0, 255);
+}
+
+.bg-footer{
+    background-color: black;
+    color: white
+}
+
